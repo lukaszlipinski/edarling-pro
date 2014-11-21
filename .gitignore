@@ -1,0 +1,5 @@
+node_modules/
+.idea
+atlassian-ide-plugin.xml
+bower_components
+test/npm-debug.log
