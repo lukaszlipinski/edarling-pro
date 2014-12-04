@@ -1,5 +1,7 @@
 node_modules/
 .idea
+.tmp
 atlassian-ide-plugin.xml
 bower_components
 test/npm-debug.log
+dist

@@ -1,6 +1,8 @@
 {
-  "name": "tester",
+  "name": "eDarling PRO",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
   "devDependencies": {}
 }
