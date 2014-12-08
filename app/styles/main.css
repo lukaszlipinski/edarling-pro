@@ -5,10 +5,20 @@ body {
 .ed_pro_tools {
 	height:30px;
 	width:90px;
+	padding: 4px 0;
+}
+
+.ed_pro_tools1 {
 	position: relative;
 	top:0px;
 	left:0px;
-	padding: 4px 0;
+}
+
+.ed_pro_tools2 {
+	position: absolute;
+	top:100px;
+	right:50px;
+	width:30px;
 }
 
 .ed_pro_tools .ed_pro_button {
